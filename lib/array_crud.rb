@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  game_icons["mario", "link", "sonic", "yoshi"]
+  ["mario", "link", "sonic", "yoshi"]
 end
 
 def add_element_to_end_of_array(array, element)
