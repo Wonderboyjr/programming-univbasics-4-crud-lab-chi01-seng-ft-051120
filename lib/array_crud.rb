@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   game_icons = ["mario", "link", "sonic", "yoshi"]
-  game_icons.pop("ryu")
+  yoshi = game_icons.pop
 end
 
 def remove_element_from_start_of_array(array)
