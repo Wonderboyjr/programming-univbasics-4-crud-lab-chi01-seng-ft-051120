@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  game_icons
+  game_icons = ["mario", "link", "sonic", "yoshi"]
   game_icons << "kratos"
 end
 
