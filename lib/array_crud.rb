@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   game_icons = ["mario", "link", "sonic", "yoshi"]
+  kratos = "kratos"
   game_icons << "kratos"
 end
 
