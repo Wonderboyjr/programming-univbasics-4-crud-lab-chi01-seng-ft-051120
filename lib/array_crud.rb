@@ -34,13 +34,15 @@ end
 
 def retrieve_first_element_from_array(array)
   game_icons = ["mario", "link", "sonic", "yoshi"]
-  game_icons.first
+  mario = game_icons.first
 end
 
 def retrieve_last_element_from_array(array)
-  game_icons.last
+  game_icons = ["mario", "link", "sonic", "yoshi"]
+  yoshi = game_icons.last
 end
 
 def update_element_from_index(array, index_number, element)
- game_icons.index = "mario"
+  game_icons = ["mario", "link", "sonic", "yoshi"]
+  game_icons.index = "mario"
 end
