@@ -24,7 +24,7 @@ end
 
 def remove_element_from_start_of_array(array)
   game_icons = ["mario", "link", "sonic", "yoshi"]
-  game_icons.shift
+  yoshi = game_icons.shift
 end
 
 def retrieve_element_from_index(array, index_number)
