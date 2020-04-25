@@ -44,5 +44,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   game_icons = ["mario", "link", "sonic", "yoshi"]
-  game_icons.index = "mario"
+  game_icons[2] = "mario"
 end
