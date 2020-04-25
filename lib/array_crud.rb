@@ -35,6 +35,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  game_icons = ["mario", "luigi"]
-  game_icons.index("mario")
+ game_icons.index("mario")
 end
